@@ -27,4 +27,5 @@ Sole Proprietorship (some guy in a garage)
 Partnership (more than one guy in the garage)
  - same as above but with more than one owner
 Corporation (C-Corp, S-Corp, LLC, LLP)
+- testing
 - 
