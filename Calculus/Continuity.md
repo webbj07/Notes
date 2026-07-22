@@ -9,6 +9,10 @@ A discontinuity is removable if $\lim_{x\rightarrow a} f(x)$ exists but does not
 A jump discontinuity is a discontinuity where the function suddenly "jumps" to a new value without any connection between the 2 parts of the function. This usually occurs in piece-wise defined functions.
 
 $f(x)$ has a jump discontinuity if $\lim_{x\rightarrow a^+} f(x)$ and $\lim_{x\rightarrow a^-}f(x)$ exist, but  $\lim_{x\rightarrow a^+}f(x) \neq \lim_{x\rightarrow a^-}f(x)$
+##### Infinite discontinuity
+An infinite discontinuity is the point where a function reaches infinity (usually along an asymptote). Since infinity is not a number, the function is not defined at this point. 
+$f(x)$ has an infinity discontinuity if $\lim_{x\rightarrow a^\pm}f(x)=\pm \infty$ 
+
 
 ### Derivatives and Continuity
 If a function $f(x)$ is differentiable at $a$, then $f(x)$ is continuous at $a$.

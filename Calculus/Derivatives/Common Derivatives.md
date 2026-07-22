@@ -1,4 +1,4 @@
-Some derivatives are very complicated to evaluate using the methods from [[Basic Derivatives]] and it is better to just memorize their answers.
+Some derivatives are very complicated to evaluate using the methods from [[Derivatives]] and [[L'Hopital's Rule]] it is better to just memorize their answers.
 ### Common Trig 
 1. $$\frac{d}{dx} sin(x) = cos(x)$$
 2. $$\frac{d}{dx}cos(x) = -sin(x)$$

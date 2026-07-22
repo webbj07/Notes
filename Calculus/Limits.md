@@ -1,6 +1,6 @@
 ### Overview
 The limit of a function is the value that a function approaches as its inputs reach a particular value. i.e. for the function $f(x)$, the limit as x approaches a would be written as $$\lim_{x\rightarrow a} f(x) = L$$
-This process is useful in many different parts of calculus, are the fundamental concepts behind [[Basic Derivatives]] and [[Basic Integrals]].
+This process is useful in many different parts of calculus, are the fundamental concepts behind [[Derivatives]] and [[Integrals]].
 ### Calculation
 Limits can be calculated in several different ways depending on the situation. In the simplest of cases, evaluating a limit could be the same as evaluating a function. For example, take some function $f(x)$ and its limit $\lim_{x\rightarrow a}=L$. If the value of $f(a)$ exists, then the limit $L$ is just the value of $f(a)$. In more complex cases, a series of limit laws needs to be applied to find an answer.
 #### Limit Laws

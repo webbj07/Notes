@@ -8,6 +8,7 @@ There are several rules that can be applied to most derivative problems that gre
 2. $f(x) = x^n : f^\prime (x) = n\cdot x^{n-1}$
 3. $$\frac{d}{dx}(f(x)+g(x)) = \frac{d}{dx}(f(x)) + \frac{d}{dx}(g(x))$$
 4. $$\frac{d}{dx}(f(x)-g(x)) = \frac{d}{dx}(f(x)) - \frac{d}{dx}(g(x))$$
-5. $f(x) = k\cdot f(x) : f^\prime (x) = k\cdot \frac{d}{dx}(f^\prime (x))$
+5. $f(x) = k\cdot f(x) : f^\prime (x) = k\cdot f^\prime (x)$
 6. $$\frac{d}{dx}(f(x)\cdot g(x)) = f^\prime(x)\cdot g(x) + g^\prime(x)\cdot f(x)$$
 7. $$\frac{d}{dx}\frac{f(x)}{g(x)} = \frac{f^\prime(x)\cdot g(x) - g^\prime(x) \cdot f(x)}{g(x)^2}$$
+8. $h(x) = f(g(x))$ $$h^\prime(x) = f^\prime(g(x))\cdot g^\prime(x)$$
